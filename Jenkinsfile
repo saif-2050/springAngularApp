@@ -13,7 +13,7 @@ pipeline {
         
         stage ("Clone repo"){
             steps {
-                sh "git clone https://github.com/Mahdimidi/spring-angular.git"
+                sh "git clone https://github.com/saif-2050/springAngularApp"
             }
         }
         
